@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerilogElkDemo.Web", "SerilogElkDemo.Web\SerilogElkDemo.Web.csproj", "{6D84EC41-D767-424B-AEB3-9055272DF093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogElkDemo.Web2", "SerilogElkDemo.Web2\SerilogElkDemo.Web2.csproj", "{9AD59F28-432E-4BA9-8113-5DEC281B0E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D84EC41-D767-424B-AEB3-9055272DF093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D84EC41-D767-424B-AEB3-9055272DF093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D84EC41-D767-424B-AEB3-9055272DF093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D84EC41-D767-424B-AEB3-9055272DF093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD59F28-432E-4BA9-8113-5DEC281B0E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD59F28-432E-4BA9-8113-5DEC281B0E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD59F28-432E-4BA9-8113-5DEC281B0E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD59F28-432E-4BA9-8113-5DEC281B0E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BD6675-2BE0-4B74-9C65-0165EDEC3C8A}
+	EndGlobalSection
+EndGlobal
